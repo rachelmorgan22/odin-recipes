@@ -1,0 +1,49 @@
+h1 {
+    color:darkred;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: "Courier New";
+}
+
+li {
+    color: darkslateblue;
+    font-size: 30px;
+}
+
+.soup {
+    color: darkred;
+}
+
+.risotto {
+    color: black;
+}
+
+li, .soup, .risotto {
+    font-family: "Copperplate";
+}
+
+.creamy {
+    color:darkblue;
+    font-family: "Copperplate";
+    font-weight: bold;
+}
+
+* {
+    background-color: goldenrod;
+}
+
+.body {
+    color: darkred;
+    font-family: "Courier New";
+}
+
+
+.creamy.ingredients {
+    font-size:larger;
+    text-decoration: underline;
+}
+
+.two {
+    font-size:medium;
+}
+
